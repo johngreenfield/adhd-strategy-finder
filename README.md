@@ -1,6 +1,6 @@
 # Project: ADHD Strategy Finder
 ## Introduction
-This project is a prototype for the "Semantic Detective" track of the BigQuery AI Hackathon. Its mission is to solve a real-world problem by helping the neurodivergent community find relevant, crowd-sourced strategies for managing ADHD.
+This project is a prototype for the "Semantic Detective" track of the <a href="https://www.kaggle.com/competitions/bigquery-ai-hackathon" target="_blank">BigQuery AI Hackathon</a>. Its mission is to solve a real-world problem by helping the neurodivergent community find relevant, crowd-sourced strategies for managing ADHD.
 
 To demonstrate the architecture and value of a BigQuery-powered semantic search application, this notebook builds a fully functional prototype using a public Kaggle dataset. The workflow directly simulates BigQuery AI's capabilities:
 
